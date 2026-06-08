@@ -1,0 +1,20 @@
+===== MQ Dashboard Summary =====
+Queues
+Healthy : 2
+Warning : 1
+Critical : 2
+
+Channels
+Running Channels : 2
+Retrying Channels : 1
+Stopped Channels : 1
+
+Alerts
+------
+ALERT: NEFT.IN depth 95 is Critical
+ALERT: RTGS.IN depth 60 is warning alert
+ALERT: DLQ contains 5 messages
+ALERT: ERROR.Q depth 100 is Critical
+ALERT: ERROR.Q contains 100 messages
+ALERT: CH2 is RETRYING
+ALERT: CH3 is STOPPED

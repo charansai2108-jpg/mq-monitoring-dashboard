@@ -1,0 +1,5 @@
+"PAYMENT.IN,20,Healthy"
+"NEFT.IN,95,Critical"
+"RTGS.IN,60,Warning"
+"DLQ,5,Healthy"
+"ERROR.Q,100,Critical"
